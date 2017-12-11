@@ -10,7 +10,7 @@
 ## FYI
 Scripts can be found at this level of the directory, all data to accompany the scripts is in the data folder.
 
-### Wordclouds and fuzzy string matching using stringdist in R
+### [Wordclouds and fuzzy string matching using stringdist in R](https://github.com/tfl-pyr/userGroups/blob/master/2017-12-12%20NLP/NLPDemoScript.R)
 For this session you'll need:
 * [Jeopardy.csv](https://github.com/tfl-pyr/userGroups/blob/master/2017-12-12%20NLP/data/Jeopardy.csv)
 * [TFL_API_TubeStations.csv](https://github.com/tfl-pyr/userGroups/blob/master/2017-12-12%20NLP/data/TFL_API_TubeStations.csv)
