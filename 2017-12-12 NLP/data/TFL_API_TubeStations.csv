@@ -1,0 +1,271 @@
+"id","Station","lat","lon"
+"BST","Baker Street",51.522883,-0.15713
+"CHX","Charing Cross",51.50741,-0.127277
+"EAC","Elephant & Castle",51.494536,-0.100606
+"EMB","Embankment",51.507058,-0.122666
+"ERB","Edgware Road (Bakerloo)",51.520299,-0.17015
+"HAW","Harrow & Wealdstone",51.592268,-0.335217
+"HSN","Harlesden",51.53631,-0.257883
+"KEN","Kenton",51.581756,-0.31691
+"KPK","Kilburn Park",51.534979,-0.194232
+"KSL","Kensal Green",51.530539,-0.225016
+"LBN","Lambeth North",51.498808,-0.112315
+"MVL","Maida Vale",51.529777,-0.185758
+"MYB","Marylebone",51.522322,-0.163207
+"NWY","North Wembley",51.562551,-0.304
+"OXC","Oxford Circus",51.515224,-0.141903
+"PAC","Paddington",51.516581,-0.175689
+"PCC","Piccadilly Circus",51.51005,-0.133798
+"QPS","Queen's Park",51.534158,-0.204574
+"RGP","Regent's Park",51.523344,-0.146444
+"SGP","Stonebridge Park",51.543959,-0.275892
+"SKT","South Kenton",51.570232,-0.308433
+"WJN","Willesden Junction",51.532259,-0.244283
+"WKA","Warwick Avenue",51.523263,-0.183783
+"WLO","Waterloo",51.503299,-0.11478
+"WYC","Wembley Central",51.552304,-0.296852
+"BKE","Barkingside",51.585689,0.088585
+"BKH","Buckhurst Hill",51.626605,0.046757
+"BLG","Bethnal Green",51.527222,-0.055506
+"BND","Bond Street",51.514304,-0.149723
+"BNK","Bank",51.513335,-0.088712
+"CHL","Chancery Lane",51.518247,-0.111583
+"CWL","Chigwell",51.617916,0.075041
+"DBN","Debden",51.645386,0.083782
+"EAN","East Acton",51.516612,-0.247248
+"EBY","Ealing Broadway",51.515017,-0.301457
+"EPG","Epping",51.69368,0.113767
+"FLP","Fairlop",51.595618,0.091004
+"GFD","Greenford",51.542424,-0.34605
+"GGH","Grange Hill",51.613378,0.092066
+"GTH","Gants Hill",51.576544,0.066185
+"HBN","Holborn",51.51758,-0.120475
+"HGR","Hanger Lane",51.530177,-0.292704
+"HLT","Hainault",51.603659,0.093482
+"HPK","Holland Park",51.507143,-0.205679
+"LGN","Loughton",51.641443,0.055476
+"LGT","Lancaster Gate",51.511723,-0.175494
+"LVT","Liverpool Street",51.517372,-0.083182
+"LYN","Leyton",51.556589,-0.005523
+"LYS","Leytonstone",51.568324,0.008194
+"MBA","Marble Arch",51.513424,-0.158953
+"MED","Mile End",51.525122,-0.03364
+"NAN","North Acton",51.523524,-0.259755
+"NBP","Newbury Park",51.575726,0.090004
+"NHG","Notting Hill Gate",51.509128,-0.196104
+"NHT","Northolt",51.548236,-0.368699
+"PVL","Perivale",51.536717,-0.323446
+"QWY","Queensway",51.510312,-0.187152
+"RBG","Redbridge",51.576243,0.04536
+"RSG","Ruislip Gardens",51.560736,-0.41071
+"RVY","Roding Valley",51.617199,0.043647
+"SBC","Shepherd's Bush (Central)",51.504376,-0.218813
+"SNB","Snaresbrook",51.580678,0.02144
+"SPU","St. Paul's",51.514936,-0.097567
+"SRP","South Ruislip",51.556853,-0.398915
+"STD","Stratford",51.541806,-0.003458
+"SWF","South Woodford",51.591907,0.027338
+"TCR","Tottenham Court Road",51.516426,-0.13041
+"THB","Theydon Bois",51.671759,0.103085
+"WCY","White City",51.511959,-0.224297
+"WOF","Woodford",51.606899,0.03397
+"WRP","West Ruislip",51.569688,-0.437886
+"WSD","Wanstead",51.575501,0.028527
+"WTA","West Acton",51.518001,-0.28098
+"ALD","Aldgate",51.514246,-0.075689
+"BBN","Barbican",51.520275,-0.097993
+"BKF","Blackfriars",51.511581,-0.103659
+"BWT","Bayswater",51.512284,-0.187938
+"CST","Cannon Street",51.51151,-0.090432
+"ERC","Edgware Road (Circle Line)",51.519858,-0.167832
+"ESQ","Euston Square",51.525604,-0.135829
+"FCN","Farringdon",51.520252,-0.104913
+"GHK","Goldhawk Road",51.502005,-0.226715
+"GPS","Great Portland Street",51.52384,-0.144262
+"GTR","Gloucester Road",51.494316,-0.182658
+"HSC","Hammersmith (H&C Line)",51.493172,-0.224177
+"HSK","High Street Kensington",51.501055,-0.192792
+"KSX","King's Cross St. Pancras",51.530663,-0.123194
+"LAD","Ladbroke Grove",51.517449,-0.210391
+"LRD","Latimer Road",51.513389,-0.217799
+"MGT","Moorgate",51.518176,-0.088322
+"MMT","Monument",51.5107,-0.085969
+"MSH","Mansion House",51.512117,-0.094009
+"PAH","Paddington (H&C Line)",51.518187,-0.178306
+"RYO","Royal Oak",51.519113,-0.188748
+"SBM","Shepherd's Bush Market",51.505579,-0.226375
+"SJP","St. James's Park",51.499544,-0.133608
+"SKS","South Kensington",51.494094,-0.174138
+"SSQ","Sloane Square",51.49227,-0.156377
+"TMP","Temple",51.511006,-0.11426
+"TWH","Tower Hill",51.509971,-0.076546
+"VIC","Victoria",51.496359,-0.143102
+"WLA","Wood Lane",51.509669,-0.22453
+"WSM","Westminster",51.50132,-0.124861
+"WSP","Westbourne Park",51.52111,-0.201065
+"ACT","Acton Town",51.503057,-0.280462
+"ADE","Aldgate East",51.515037,-0.072384
+"BBB","Bromley-by-Bow",51.524839,-0.011538
+"BEC","Becontree",51.540331,0.127016
+"BKG","Barking",51.539321,0.081053
+"BSC","Barons Court",51.490311,-0.213427
+"BWR","Bow Road",51.52694,-0.025128
+"CWP","Chiswick Park",51.494627,-0.267972
+"DGE","Dagenham East",51.544096,0.166017
+"DGY","Dagenham Heathway",51.541639,0.147527
+"ECM","Ealing Common",51.51014,-0.288265
+"ECT","Earl's Court",51.492063,-0.193378
+"EHM","East Ham",51.538948,0.051186
+"EPK","Elm Park",51.549775,0.19864
+"EPY","East Putney",51.459205,-0.211
+"FBY","Fulham Broadway",51.480081,-0.195422
+"GBY","Gunnersbury",51.491803,-0.275267
+"HCH","Hornchurch",51.554093,0.219116
+"HSD","Hammersmith (Dist&Picc Line)",51.4923,-0.22362
+"KOY","Kensington (Olympia)",51.497624,-0.210015
+"KWG","Kew Gardens",51.477058,-0.285241
+"PLW","Plaistow",51.531341,0.017451
+"PSG","Parsons Green",51.475277,-0.20117
+"PYB","Putney Bridge",51.468262,-0.208731
+"RMD","Richmond",51.463237,-0.301336
+"RVP","Ravenscourt Park",51.494122,-0.235881
+"SFB","Stamford Brook",51.494917,-0.245704
+"SFS","Southfields",51.445073,-0.206602
+"SGN","Stepney Green",51.521858,-0.046596
+"TNG","Turnham Green",51.495148,-0.254555
+"UPB","Upminster Bridge",51.55856,0.235809
+"UPK","Upton Park",51.53534,0.035263
+"UPM","Upminster",51.559063,0.250882
+"UPY","Upney",51.538372,0.10153
+"WBN","West Brompton",51.487268,-0.195599
+"WHM","West Ham",51.528136,0.005055
+"WIM","Wimbledon",51.421207,-0.206573
+"WIP","Wimbledon Park",51.434573,-0.199719
+"WKN","West Kensington",51.490459,-0.206636
+"WPL","Whitechapel",51.519518,-0.059971
+"BMY","Bermondsey",51.497953,-0.063769
+"CGT","Canning Town",51.513584,0.008322
+"CPK","Canons Park",51.607701,-0.294693
+"CWR","Canada Water",51.497945,-0.049722
+"CYF","Canary Wharf",51.503488,-0.018246
+"DOH","Dollis Hill",51.551955,-0.239068
+"FYR","Finchley Road",51.546825,-0.179845
+"GPK","Green Park",51.506947,-0.142787
+"KBN","Kilburn",51.546803,-0.204105
+"KBY","Kingsbury",51.584845,-0.27879
+"LNB","London Bridge",51.505721,-0.088873
+"NDN","Neasden",51.553986,-0.249837
+"NGW","North Greenwich",51.50047,0.004287
+"QBY","Queensbury",51.594188,-0.286219
+"SJW","St. John's Wood",51.534521,-0.173948
+"STM","Stanmore",51.619839,-0.303266
+"SWC","Swiss Cottage",51.543681,-0.174894
+"SWK","Southwark",51.503976,-0.10494
+"WHP","West Hampstead",51.546638,-0.191059
+"WIG","Willesden Green",51.549146,-0.221537
+"WYP","Wembley Park",51.563198,-0.279262
+"AMS","Amersham",51.674126,-0.607714
+"CAL","Chalfont & Latimer",51.667985,-0.560689
+"CSM","Chesham",51.705208,-0.611247
+"CXY","Croxley",51.647044,-0.441718
+"CYD","Chorleywood",51.654358,-0.518461
+"EAE","Eastcote",51.576506,-0.397373
+"HGD","Hillingdon",51.553715,-0.449828
+"HOH","Harrow-on-the-Hill",51.579195,-0.337225
+"ICK","Ickenham",51.561992,-0.442001
+"MPK","Moor Park",51.629845,-0.432454
+"NHA","North Harrow",51.584872,-0.362408
+"NKP","Northwick Park",51.578481,-0.318056
+"NOW","Northwood",51.611053,-0.423829
+"NWH","Northwood Hills",51.600572,-0.409464
+"PNR","Pinner",51.592901,-0.381161
+"PRD","Preston Road",51.571972,-0.295107
+"RKW","Rickmansworth",51.640207,-0.473703
+"RSM","Ruislip Manor",51.573202,-0.412973
+"RSP","Ruislip",51.571354,-0.421898
+"RYL","Rayners Lane",51.575147,-0.371127
+"UXB","Uxbridge",51.546565,-0.477949
+"WAF","Watford",51.657446,-0.417377
+"WHW","West Harrow",51.57971,-0.3534
+"ACY","Archway",51.565478,-0.134819
+"AGL","Angel",51.532624,-0.105898
+"BLM","Balham",51.443288,-0.152997
+"BOR","Borough",51.501199,-0.09337
+"BTK","Burnt Oak",51.602774,-0.264048
+"BTX","Brent Cross",51.57665,-0.213622
+"BZP","Belsize Park",51.550311,-0.164648
+"CFM","Chalk Farm",51.544118,-0.153388
+"CND","Colindale",51.595424,-0.249919
+"CPC","Clapham Common",51.461742,-0.138317
+"CPN","Clapham North",51.465135,-0.130016
+"CPS","Clapham South",51.452654,-0.147582
+"CSD","Colliers Wood",51.41816,-0.178086
+"CTN","Camden Town",51.539292,-0.14274
+"EFY","East Finchley",51.587131,-0.165012
+"EGW","Edgware",51.613653,-0.274928
+"EUS","Euston",51.527824,-0.131846
+"FYC","Finchley Central",51.600921,-0.192527
+"GDG","Goodge Street",51.520599,-0.134361
+"GGN","Golders Green",51.572259,-0.194039
+"HBT","High Barnet",51.650541,-0.194298
+"HCL","Hendon Central",51.583301,-0.226424
+"HGT","Highgate",51.577532,-0.145857
+"HTD","Hampstead",51.556632,-0.178487
+"KNG","Kennington",51.488337,-0.105963
+"KSH","Kentish Town",51.550312,-0.140733
+"LSQ","Leicester Square",51.511386,-0.128426
+"MDN","Morden",51.402142,-0.194839
+"MHL","Mill Hill East",51.608229,-0.209986
+"MTC","Mornington Crescent",51.534679,-0.138789
+"ODS","Old Street",51.525864,-0.08777
+"OVL","Oval",51.48185,-0.112439
+"SKW","Stockwell",51.472184,-0.122644
+"SWN","South Wimbledon",51.415309,-0.192005
+"TAW","Totteridge & Whetstone",51.630597,-0.17921
+"TBC","Tooting Bec",51.435678,-0.159736
+"TBY","Tooting Broadway",51.42763,-0.168374
+"TFP","Tufnell Park",51.556822,-0.138433
+"WFN","West Finchley",51.609426,-0.188362
+"WOP","Woodside Park",51.618014,-0.18542
+"WRR","Warren Street",51.524951,-0.138321
+"ALP","Alperton",51.540627,-0.29961
+"ASG","Arnos Grove",51.616446,-0.133062
+"ASL","Arsenal",51.558655,-0.107457
+"BDS","Bounds Green",51.607034,-0.124235
+"BOS","Boston Manor",51.495635,-0.324939
+"CAR","Caledonian Road",51.548519,-0.118493
+"CGN","Covent Garden",51.513093,-0.124436
+"CKS","Cockfosters",51.65152,-0.149171
+"FPK","Finsbury Park",51.564158,-0.106825
+"HNX","Hatton Cross",51.466747,-0.423191
+"HPC","Hyde Park Corner",51.503035,-0.152441
+"HR4","Heathrow Terminal 4",51.458524,-0.445771
+"HR5","Heathrow Terminal 5",51.470052,-0.49056
+"HRC","Heathrow Terminals 1-2-3 ",51.471235,-0.452265
+"HWC","Hounslow Central",51.471295,-0.366578
+"HWE","Hounslow East",51.473213,-0.356474
+"HWT","Hounslow West",51.473469,-0.386544
+"HWY","Holloway Road",51.552697,-0.113244
+"KNB","Knightsbridge",51.501669,-0.160508
+"MRH","Manor House",51.570738,-0.096118
+"NEN","North Ealing",51.517505,-0.288868
+"NFD","Northfields",51.499319,-0.314719
+"OAK","Oakwood",51.647726,-0.132182
+"OSY","Osterley",51.481274,-0.352224
+"PKR","Park Royal",51.527123,-0.284341
+"RSQ","Russell Square",51.523073,-0.124285
+"SEA","South Ealing",51.501003,-0.307424
+"SGT","Southgate",51.632315,-0.127816
+"SHH","South Harrow",51.564888,-0.352492
+"SUH","Sudbury Hill",51.556946,-0.336435
+"SUT","Sudbury Town",51.550815,-0.315745
+"TPN","Turnpike Lane",51.590272,-0.102953
+"WOG","Wood Green",51.597479,-0.109886
+"BLR","Blackhorse Road",51.586919,-0.04115
+"BXN","Brixton",51.462618,-0.114888
+"HAI","Highbury & Islington",51.54635,-0.103324
+"PCO","Pimlico",51.489097,-0.133761
+"SVS","Seven Sisters",51.58333,-0.072584
+"TMH","Tottenham Hale",51.588108,-0.060241
+"VXL","Vauxhall",51.485743,-0.124204
+"WWL","Walthamstow Central",51.582965,-0.019885
