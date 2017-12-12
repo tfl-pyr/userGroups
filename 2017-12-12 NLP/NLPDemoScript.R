@@ -16,9 +16,9 @@ library(wordcloud)
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 # load up our data
-jepQ <- read.csv("Jeopardy.csv", header = TRUE, stringsAsFactors = FALSE)
-tflApi <- read.csv("TFL_API_TubeStations.csv", header = TRUE, stringsAsFactors = FALSE)
-cupid <- read.csv("CUPID_TubeStations.csv", header = TRUE, stringsAsFactors = FALSE)
+jepQ <- read.csv("data/Jeopardy.csv", header = TRUE, stringsAsFactors = FALSE, na.strings = c("","NA","#N/A"))
+tflApi <- read.csv("data/TFL_API_TubeStations.csv", header = TRUE, stringsAsFactors = FALSE, na.strings = c("","NA","#N/A"))
+cupid <- read.csv("data/CUPID_TubeStations.csv", header = TRUE, stringsAsFactors = FALSE, na.strings = c("","NA","#N/A"))
 
 ##########################################
 ## Wordcloud -----
@@ -27,15 +27,17 @@ cupid <- read.csv("CUPID_TubeStations.csv", header = TRUE, stringsAsFactors = FA
 # First we'll look at some text cleaning using tm, and then create a wordcloud using...wordcloud
 
 # make a corpus
-jeoCorp <- Corpus(DataframeSource(data.frame(as.character(jepQ$Question))))
+#jeoCorp <- Corpus(DataframeSource(data.frame(doc_id = row.names(jepQ),
+#                                             text = as.character(jepQ$Question))))
+jeoCorp <- Corpus(VectorSource(as.character(jepQ$Question)))
 
 # set to lower
 jeoCorp <- tm_map(jeoCorp, content_transformer(tolower))
 
 # clean up by removing punctuation and english stopwords eg 'all', 'and', 'off', 'the'
 jeoCorp <- tm_map(jeoCorp, removePunctuation)
-#jeoCorp <- tm_map(jeoCorp, removeNumbers)
-jeoCorp <- tm_map(jeoCorp, PlainTextDocument)
+jeoCorp <- tm_map(jeoCorp, removeNumbers)
+#jeoCorp <- tm_map(jeoCorp, PlainTextDocument)
 jeoCorp <- tm_map(jeoCorp, removeWords, stopwords("english"))
 
 # now we stem (learning -> learn, jumping -> jump)
