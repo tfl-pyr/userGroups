@@ -22,3 +22,6 @@ Also make sure you have installed the following packages, using `install.package
 * `stringdist`
 * `tm`
 * `wordcloud`
+
+Wordcloud output example:
+![](https://github.com/tfl-pyr/userGroups/blob/master/2017-12-12%20NLP/myWordCloud.png)
